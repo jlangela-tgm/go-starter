@@ -3,7 +3,7 @@ package provider
 import (
 	"errors"
 
-	"allaboutapps.dev/aw/go-starter/internal/push"
+	"github.com/jlangela-tgm/go-starter/internal/push"
 	"github.com/rs/zerolog/log"
 )
 

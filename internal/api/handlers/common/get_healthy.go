@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strings"
 
-	"allaboutapps.dev/aw/go-starter/internal/api"
+	"github.com/jlangela-tgm/go-starter/internal/api"
 	"github.com/labstack/echo/v4"
 )
 

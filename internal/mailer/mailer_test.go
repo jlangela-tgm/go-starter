@@ -4,9 +4,9 @@ import (
 	"context"
 	"testing"
 
-	"allaboutapps.dev/aw/go-starter/internal/api"
-	"allaboutapps.dev/aw/go-starter/internal/config"
-	"allaboutapps.dev/aw/go-starter/internal/test"
+	"github.com/jlangela-tgm/go-starter/internal/api"
+	"github.com/jlangela-tgm/go-starter/internal/config"
+	"github.com/jlangela-tgm/go-starter/internal/test"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

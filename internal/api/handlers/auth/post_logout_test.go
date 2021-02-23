@@ -6,10 +6,10 @@ import (
 	"net/http"
 	"testing"
 
-	"allaboutapps.dev/aw/go-starter/internal/api"
-	"allaboutapps.dev/aw/go-starter/internal/api/httperrors"
-	"allaboutapps.dev/aw/go-starter/internal/api/middleware"
-	"allaboutapps.dev/aw/go-starter/internal/test"
+	"github.com/jlangela-tgm/go-starter/internal/api"
+	"github.com/jlangela-tgm/go-starter/internal/api/httperrors"
+	"github.com/jlangela-tgm/go-starter/internal/api/middleware"
+	"github.com/jlangela-tgm/go-starter/internal/test"
 	"github.com/stretchr/testify/assert"
 )
 

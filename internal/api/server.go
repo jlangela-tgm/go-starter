@@ -6,11 +6,11 @@ import (
 	"errors"
 	"fmt"
 
-	"allaboutapps.dev/aw/go-starter/internal/config"
-	"allaboutapps.dev/aw/go-starter/internal/mailer"
-	"allaboutapps.dev/aw/go-starter/internal/mailer/transport"
-	"allaboutapps.dev/aw/go-starter/internal/push"
-	"allaboutapps.dev/aw/go-starter/internal/push/provider"
+	"github.com/jlangela-tgm/go-starter/internal/config"
+	"github.com/jlangela-tgm/go-starter/internal/mailer"
+	"github.com/jlangela-tgm/go-starter/internal/mailer/transport"
+	"github.com/jlangela-tgm/go-starter/internal/push"
+	"github.com/jlangela-tgm/go-starter/internal/push/provider"
 	"github.com/labstack/echo/v4"
 	"github.com/rs/zerolog/log"
 

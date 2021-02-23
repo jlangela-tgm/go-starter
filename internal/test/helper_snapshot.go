@@ -9,8 +9,8 @@ import (
 	"regexp"
 	"strings"
 
-	"allaboutapps.dev/aw/go-starter/internal/util"
 	"github.com/davecgh/go-spew/spew"
+	"github.com/jlangela-tgm/go-starter/internal/util"
 	"github.com/pmezard/go-difflib/difflib"
 )
 

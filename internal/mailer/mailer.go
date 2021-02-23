@@ -8,9 +8,9 @@ import (
 	"io/ioutil"
 	"path/filepath"
 
-	"allaboutapps.dev/aw/go-starter/internal/config"
-	"allaboutapps.dev/aw/go-starter/internal/mailer/transport"
-	"allaboutapps.dev/aw/go-starter/internal/util"
+	"github.com/jlangela-tgm/go-starter/internal/config"
+	"github.com/jlangela-tgm/go-starter/internal/mailer/transport"
+	"github.com/jlangela-tgm/go-starter/internal/util"
 	"github.com/jordan-wright/email"
 	"github.com/rs/zerolog/log"
 )

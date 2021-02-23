@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"net/http"
 
-	"allaboutapps.dev/aw/go-starter/internal/api/httperrors"
-	"allaboutapps.dev/aw/go-starter/internal/types"
-	"allaboutapps.dev/aw/go-starter/internal/util"
 	"github.com/go-openapi/swag"
+	"github.com/jlangela-tgm/go-starter/internal/api/httperrors"
+	"github.com/jlangela-tgm/go-starter/internal/types"
+	"github.com/jlangela-tgm/go-starter/internal/util"
 	"github.com/labstack/echo/v4"
 )
 

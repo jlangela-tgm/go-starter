@@ -1,4 +1,4 @@
-module allaboutapps.dev/aw/go-starter
+module github.com/jlangela-tgm/go-starter
 
 go 1.15
 

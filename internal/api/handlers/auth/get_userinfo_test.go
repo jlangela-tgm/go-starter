@@ -5,11 +5,11 @@ import (
 	"net/http"
 	"testing"
 
-	"allaboutapps.dev/aw/go-starter/internal/api"
-	"allaboutapps.dev/aw/go-starter/internal/models"
-	"allaboutapps.dev/aw/go-starter/internal/test"
-	"allaboutapps.dev/aw/go-starter/internal/types"
 	"github.com/go-openapi/strfmt"
+	"github.com/jlangela-tgm/go-starter/internal/api"
+	"github.com/jlangela-tgm/go-starter/internal/models"
+	"github.com/jlangela-tgm/go-starter/internal/test"
+	"github.com/jlangela-tgm/go-starter/internal/types"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

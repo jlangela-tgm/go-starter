@@ -3,8 +3,8 @@ package auth
 import (
 	"context"
 
-	"allaboutapps.dev/aw/go-starter/internal/models"
-	"allaboutapps.dev/aw/go-starter/internal/util"
+	"github.com/jlangela-tgm/go-starter/internal/models"
+	"github.com/jlangela-tgm/go-starter/internal/util"
 	"github.com/labstack/echo/v4"
 )
 

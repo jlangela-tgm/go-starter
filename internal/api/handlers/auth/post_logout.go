@@ -4,12 +4,12 @@ import (
 	"database/sql"
 	"net/http"
 
-	"allaboutapps.dev/aw/go-starter/internal/api"
-	"allaboutapps.dev/aw/go-starter/internal/api/auth"
-	"allaboutapps.dev/aw/go-starter/internal/models"
-	"allaboutapps.dev/aw/go-starter/internal/types"
-	"allaboutapps.dev/aw/go-starter/internal/util"
-	"allaboutapps.dev/aw/go-starter/internal/util/db"
+	"github.com/jlangela-tgm/go-starter/internal/api"
+	"github.com/jlangela-tgm/go-starter/internal/api/auth"
+	"github.com/jlangela-tgm/go-starter/internal/models"
+	"github.com/jlangela-tgm/go-starter/internal/types"
+	"github.com/jlangela-tgm/go-starter/internal/util"
+	"github.com/jlangela-tgm/go-starter/internal/util/db"
 	"github.com/labstack/echo/v4"
 	"github.com/volatiletech/sqlboiler/v4/boil"
 )

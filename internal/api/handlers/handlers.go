@@ -2,10 +2,10 @@
 package handlers
 
 import (
-	"allaboutapps.dev/aw/go-starter/internal/api"
-	"allaboutapps.dev/aw/go-starter/internal/api/handlers/auth"
-	"allaboutapps.dev/aw/go-starter/internal/api/handlers/common"
-	"allaboutapps.dev/aw/go-starter/internal/api/handlers/push"
+	"github.com/jlangela-tgm/go-starter/internal/api"
+	"github.com/jlangela-tgm/go-starter/internal/api/handlers/auth"
+	"github.com/jlangela-tgm/go-starter/internal/api/handlers/common"
+	"github.com/jlangela-tgm/go-starter/internal/api/handlers/push"
 	"github.com/labstack/echo/v4"
 )
 
